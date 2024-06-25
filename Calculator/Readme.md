@@ -5,7 +5,7 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 ## 📋 Table of Contents
 - [Features](#features)
 - [Screenshots](#Screenshots)
-- [Installation](#installation)
+- [Installation](#Installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,7 +22,7 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 ## Screenshots:
 ![Application Demo](output1.jpg)
 
-## Installation🔧 :
+## Installation :
 
 1. **Make sure you have Python installed on your system.**
 2. **Install the required dependencies:**
