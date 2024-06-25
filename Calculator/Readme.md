@@ -52,4 +52,4 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<h1 align="center">Enjoy using the calculator!🎉 </h1>
+<h1 align="center">Enjoy using the calculator!🎉\n Harsh Bhardwaj </h1>
