@@ -31,4 +31,4 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 3. **Download or clone the repository to your local machine.**
 4. **Navigate to the project directory in your terminal or command prompt.**
 
-## 🎶 Sound Effects:
+## Sound Effects🎶:
