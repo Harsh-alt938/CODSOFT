@@ -1,4 +1,4 @@
-## PyCalculator🧮 
+<h1 align="center">PyCalculator🧮 </h1>
 
 A simple and colorful calculator application built using Python and Tkinter, with button press sound effects.
 
