@@ -4,7 +4,7 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 
 ## 📋 Table of Contents
 - [Features](#features)
-- [Screeshots](#Screenshots)
+- [Screenshots](#Screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -19,7 +19,7 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 - Clear (C) and Delete (<) buttons to manage input.
 - Error handling for invalid expressions.
 
-## Screeshots:
+## Screenshots:
 ![Application Demo](output1.jpg)
 
 ## Installation🔧 :
