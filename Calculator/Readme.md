@@ -8,8 +8,8 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 - [Installation](#Installation)
 - [Sound Effects](#SoundEffects)
 - [Usage](#Usage)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
+- [Licence](#Licence)
 
 ## Features:
 
@@ -42,3 +42,14 @@ A simple and colorful calculator application built using Python and Tkinter, wit
  - Click on buttons to input numbers and mathematical symbols.
  - Use Clear (C) button to clear the input field.
  - Click Equals (=) button to evaluate the expression.
+
+## Acknowledgements:
+
+ 1. Special thanks to `Harsh Bhardwaj` for creating this calculator application.
+ 2.Sound effects from ```OpenGameArt``` by Luke.RUSTLTD.
+
+## License📝:
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+***Enjoy using the calculator! 🎉*** <h1 align="center">**WORLD**</h1>
