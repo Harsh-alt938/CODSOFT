@@ -6,7 +6,7 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 - [Features](#features)
 - [Screenshots](#Screenshots)
 - [Installation](#Installation)
-- [Usage](#usage)
+- [🎶 Sound Effects](#SoundEffects)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -30,3 +30,5 @@ A simple and colorful calculator application built using Python and Tkinter, wit
      - Pygame (for sound effects): pip install pygame
 3. **Download or clone the repository to your local machine.**
 4. **Navigate to the project directory in your terminal or command prompt.**
+
+## 🎶 Sound Effects:
