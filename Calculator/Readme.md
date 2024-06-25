@@ -7,7 +7,7 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 - [Screenshots](#Screenshots)
 - [Installation](#Installation)
 - [Sound Effects](#SoundEffects)
-- [Usage📜](#Usage)
+- [Usage](#Usage)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
