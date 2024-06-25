@@ -1,6 +1,6 @@
 <h1 align="center">PyCalculator🧮 </h1>
 
-<p style="text-align: center;">A simple and colorful calculator application built using Python and Tkinter, with button press sound effects.</p>
+<center>A simple and colorful calculator application built using Python and Tkinter, with button press sound effects.</center>
 
 ## 📋 Table of Contents
 - [Features](#features)
