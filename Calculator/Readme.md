@@ -7,7 +7,7 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 - [Screenshots](#Screenshots)
 - [Installation](#Installation)
 - [Sound Effects](#SoundEffects)
-- [Contributing](#contributing)
+- [Usage📜](#Usage)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -34,3 +34,6 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 ## SoundEffects🎶:
 - *Button press sound effects are implemented using `pygame.mixer`.*
 - *The sound effect file (button_press.mp3) is included in the project.*
+
+## Usage📜:
+
