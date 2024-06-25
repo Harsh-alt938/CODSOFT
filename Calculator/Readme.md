@@ -46,7 +46,7 @@
 ## Acknowledgements:
 
  1. Special thanks to `Harsh Bhardwaj` for creating this calculator application.
- 2.Sound effects from ```OpenGameArt``` by Luke.RUSTLTD.
+ 2. Sound effects from ```OpenGameArt``` by Luke.RUSTLTD.
 
 ## License📝:
 
