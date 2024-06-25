@@ -32,8 +32,13 @@ A simple and colorful calculator application built using Python and Tkinter, wit
 4. **Navigate to the project directory in your terminal or command prompt.**
 
 ## SoundEffects🎶:
+
 - *Button press sound effects are implemented using `pygame.mixer`.*
 - *The sound effect file (button_press.mp3) is included in the project.*
 
 ## Usage📜:
 
+ - Enter numbers and perform operations using the graphical user interface (GUI).
+ - Click on buttons to input numbers and mathematical symbols.
+ - Use Clear (C) button to clear the input field.
+ - Click Equals (=) button to evaluate the expression.
