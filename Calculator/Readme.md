@@ -3,7 +3,7 @@
 A simple and colorful calculator application built using Python and Tkinter, with button press sound effects.
 
 ## 📋 Table of Contents
-Features(# Features)
+Features(#Features)
 Installation
 Usage
 Contributing
